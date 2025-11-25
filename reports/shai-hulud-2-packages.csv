@@ -1,4 +1,5 @@
 Package,Version
+js-yaml,= 4.1.0
 02-echo,= 0.0.7
 @accordproject/concerto-analysis,= 3.24.1
 @accordproject/concerto-linter,= 3.24.1
